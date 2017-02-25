@@ -11,6 +11,7 @@ cadena = "esto es una cadena"\
 numero = 5\
 doble = 5.6\
 verdadero = TRUE\
+falso = false\
 \
 #operaciones aritmeticas\
 suma = 5 + 5\
